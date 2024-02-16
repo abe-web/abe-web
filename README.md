@@ -44,11 +44,12 @@ I'm also taking on the personal task to learn Web Development from the very begi
 - Create a website
 - Host a website 
 - Create a make shift store to explore dynamic website creation
+- Teach friends how to program
 - Use the Pokèmon TCG API somehow (get latest updates for cards, or play TCG with a friend remotely)
 
 #### Other ways follow me
 
-- https://www.strava.com/athletes/56948166, 
+- https://www.strava.com/athletes/56948166
 - https://www.goodreads.com/user/show/15243541-abe-garcia
 
 
